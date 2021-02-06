@@ -1,0 +1,2 @@
+SimpleAPI.Test.UnitTest1.GetReturnsWeather
+SimpleAPI.Test.UnitTest1.Test1
