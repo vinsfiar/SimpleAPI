@@ -32,7 +32,7 @@ namespace SimpleAPI.Controllers
 
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id){
-            return "something else";
+            return "Max Power";
         }
 /*
         public IEnumerable<WeatherForecast> Get()
