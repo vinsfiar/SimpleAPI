@@ -17,7 +17,7 @@ namespace SimpleAPI.Test
         public void GetValue1Value2()
         {
             var returnValue = controller.Get();
-            var re = new string[] {"value1", "value2"};
+            var re = new string[] {"dotnet", "playbook"};
             Assert.Equal(re, returnValue.Value);
 
         }
